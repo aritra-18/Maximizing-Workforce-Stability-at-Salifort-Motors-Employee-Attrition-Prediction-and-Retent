@@ -1,6 +1,6 @@
-# Predicting-Employee-Attrition-at-Sailfort-Motors-A-Data-Driven-HR-Analysis
+# Predicting-Employee-Attrition-at-Salifort-Motors-A-Data-Driven-HR-Analysis
 
-**Employee Attrition Prediction at Sailfort Motors**
+**Employee Attrition Prediction at Salifort Motors**
 
 This is a data analytics project focused on predicting employee attrition and providing data-driven insights for the Human Resources (HR) department at Sailfort Motors, a prominent consulting firm. The project aims to identify factors that contribute to employee turnover and offer recommendations to improve employee satisfaction and retention.
 
